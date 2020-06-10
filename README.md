@@ -15,6 +15,7 @@
 <img src="F:\学习\编程语言相关\Python\img\Sklearn 机器学习框架.jpg" alt="Sklearn 机器学习框架" style="zoom: 33%;" />
 
 <center>图0.1 解决机器学习问题流程</center>
+
 # 一、监督学习
 
 - 监督学习是从标注数据中学习预测模型的机器学习问题，<font color=red>本质是学习输入到输出的映射的统计规律;</font>
